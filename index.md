@@ -9,6 +9,8 @@
 
 - 我是陶俣寰，来自清华大学生命科学学院。这是我的第一个个人网站。它很简单，也有点丑，但是我会尽我努力把它变得更好！
 
-[我从这儿学习了markdown语法](https://www.jianshu.com/p/38fe4911b4a0)
-
 ![](3.bmp)
+
+---
+
+[我从这儿学习了markdown语法](https://www.jianshu.com/p/38fe4911b4a0)
