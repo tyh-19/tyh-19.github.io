@@ -11,8 +11,6 @@
 
 ![](3.bmp)
 
-![contact me in wechat](wechat.jpg)
-
 ---
 
 [我从这儿学习了markdown语法](https://www.jianshu.com/p/38fe4911b4a0)
