@@ -11,6 +11,4 @@
 
 [我从这儿学习了markdown语法](https://www.jianshu.com/p/38fe4911b4a0)
 
-![wo](C:\Users\Tao\Documents\GitHub\tyh-19.github.io\3.bmp)
-
-![wo](3.bmp)
+![](3.bmp)
