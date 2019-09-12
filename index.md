@@ -17,4 +17,5 @@
 
 |联系我的方式|wechat       |E-mail                     |
 |:----------|:-----------:|:-------------------------:|
-|  a        |taoyuhuan1997|tyh19@mails.tsinghua.edu.cn|
+|           |taoyuhuan1997|tyh19@mails.tsinghua.edu.cn|
+![](wechat.jpg)
