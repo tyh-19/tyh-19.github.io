@@ -15,6 +15,6 @@
 
 [我从这儿学习了markdown语法](https://www.jianshu.com/p/38fe4911b4a0)
 
-联系我的方式|wechat|E-mail
-：---|：---：|：---：
-|taoyuhuan1997|tyh19@mails.tsinghua.edu.cn
+|联系我的方式|wechat       |E-mail                     |
+|:----------|:-----------:|:-------------------------:|
+|           |taoyuhuan1997|tyh19@mails.tsinghua.edu.cn|
